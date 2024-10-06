@@ -28,7 +28,12 @@ To get started, follow these simple steps:
 A big thank you to the Go community for their amazing resources that helped me along the way. Let’s keep learning and growing together! 🌱
 
 ## 📧 Contact
-If you have any questions or feedback, feel free to reach out!
+
+If you have any questions or feedback, feel free to reach out:
+
+- Email: [dheerajrvithalkar@gmail.com](mailto:dheerajrvithalkar@gmail.com)
+- LinkedIn: [linkedin.com/in/drjvtlkr](https://linkedin.com/in/drjvtlkr)
+- Portfolio: [drjvtlkr.vercel.app](https://drjvtlkr.vercel.app)
 
 Happy coding! ✨
 
