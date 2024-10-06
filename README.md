@@ -33,7 +33,7 @@ If you have any questions or feedback, feel free to reach out:
 
 - Email: [dheerajrvithalkar@gmail.com](mailto:dheerajrvithalkar@gmail.com)
 - LinkedIn: [linkedin.com/in/drjvtlkr](https://linkedin.com/in/drjvtlkr)
-- Portfolio: [drjvtlkr.vercel.app](https://drjvtlkr.vercel.app)
+- Portfolio:(https://drjvtlkr.vercel.app)
 
 Happy coding! ✨
 
