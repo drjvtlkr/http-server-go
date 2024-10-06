@@ -31,9 +31,10 @@ A big thank you to the Go community for their amazing resources that helped me a
 
 If you have any questions or feedback, feel free to reach out:
 
-- Email: [dheerajrvithalkar@gmail.com](mailto:dheerajrvithalkar@gmail.com)
-- LinkedIn: [linkedin.com/in/drjvtlkr](https://linkedin.com/in/drjvtlkr)
-- Portfolio:(https://drjvtlkr.vercel.app)
+- Email: <a href="mailto:dheerajrvithalkar@gmail.com" target="_blank">dheerajrvithalkar@gmail.com</a>
+- LinkedIn: <a href="https://linkedin.com/in/drjvtlkr" target="_blank">linkedin.com/in/drjvtlkr</a>
+- Portfolio/Resume: <a href="https://drjvtlkr.vercel.app" target="_blank">drjvtlkr</a>
+
 
 Happy coding! ✨
 
