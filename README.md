@@ -17,7 +17,8 @@ To get started, follow these simple steps:
 
 2. Install Go (if you haven't already) from the official site[].
 
-3. Run the server: ```bash 
+3. Run the server: 
+    ```bash 
     go run main.go
 
 4. Access the server at http://localhost:8080.
